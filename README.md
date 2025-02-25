@@ -22,7 +22,7 @@ __FINAL GOAL : Japanese Animation Company Chief Security Officer(CSO)__
 - Wireshark
 - LiveResponse
 - Flare VM
-- KALILINUX
+- KaliLinux
 - Photoshop
 - PacketTracer
 - GNS3
@@ -46,11 +46,12 @@ __FINAL GOAL : Japanese Animation Company Chief Security Officer(CSO)__
 - Simple Android Security Solution
 - MyWebPage's
 # 5. Purpose
-5-1 Certificate
+5-1 Certificate<br>
 - - Server : RHCSA, MSCE
 - - Network : CCNA, CCNP
 - - DB : OCA, OCP
-- - Security : CISA, CISSP
+- - Security : CISA, CISSP<br>
+
 5-2 Development
 - - Basic -> Professional
 - - React
@@ -58,6 +59,7 @@ __FINAL GOAL : Japanese Animation Company Chief Security Officer(CSO)__
 - - Figma
 - - Unity
 - - Node.js
+
 5-3 Technology
 - - AI
 - - BlockChain
