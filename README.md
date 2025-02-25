@@ -45,18 +45,28 @@ __FINAL GOAL : Japanese Animation Company Chief Security Officer(CSO)__
 - NonSpecialist Vulerability Learning Site(DDOS, SQL, OS_Command_Injecton)
 - Simple Android Security Solution
 - MyWebPage's
-# 5. Goal
+# 5. Purpose
 5-1 Certificate
 - - Server : RHCSA, MSCE
 - - Network : CCNA, CCNP
 - - DB : OCA, OCP
 - - Security : CISA, CISSP
 5-2 Development
+- - Basic -> Professional
 - - React
 - - Spring Boot
 - - Figma
+- - Unity
+- - Node.js
 5-3 Technology
 - - AI
 - - BlockChain
+# 6. Private
+Genre : R, Y, O
+My Gyaruge creating
+- scenario : watasi
+- illust : watasi
+- BGM : watasi
+- Programming : watasi
 
 
