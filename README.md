@@ -40,7 +40,7 @@ __FINAL GOAL : Japanese Animation Company Chief Security Officer(CSO)__
 - Global
 - * AWS Cloud Data Engineer(English)
 - * TOEIC 530
-# 4. Project
+# 4. Project    safasfa
 - TCP Socket Programming(FILE Transfer)
 - NonSpecialist Vulerability Learning Site
 - Simple Android Security Solution
