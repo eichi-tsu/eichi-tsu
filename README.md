@@ -2,10 +2,9 @@
 <center><img src="https://thumb.ac-illust.com/1a/1a2cc631857ee598f6388330fe70a65d_t.jpeg" style="width:100px; height:100px"></center>
 
 
-
 __FINAL GOAL : Japanese Animation Company Chief Security Officer(CSO)__
 ----
-# 1.Language
+# 1.Language(Basic)
 - C/C++
 - Java
 - Python
@@ -21,6 +20,7 @@ __FINAL GOAL : Japanese Animation Company Chief Security Officer(CSO)__
 - IDA
 - Burpsutie
 - Wireshark
+- LiveResponse
 - Flare VM
 - KALILINUX
 - Photoshop
@@ -40,8 +40,23 @@ __FINAL GOAL : Japanese Animation Company Chief Security Officer(CSO)__
 - Global
 - * AWS Cloud Data Engineer(English)
 - * TOEIC 530
-# 4. Project    safasfa
+# 4. Project    
 - TCP Socket Programming(FILE Transfer)
-- NonSpecialist Vulerability Learning Site
+- NonSpecialist Vulerability Learning Site(DDOS, SQL, OS_Command_Injecton)
 - Simple Android Security Solution
 - MyWebPage's
+# 5. Goal
+5-1 Certificate
+- - Server : RHCSA, MSCE
+- - Network : CCNA, CCNP
+- - DB : OCA, OCP
+- - Security : CISA, CISSP
+5-2 Development
+- - React
+- - Spring Boot
+- - Figma
+5-3 Technology
+- - AI
+- - BlockChain
+
+
