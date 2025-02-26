@@ -43,7 +43,7 @@ __FINAL GOAL : Japanese Animation Company Chief Security Officer(CSO)__
 # 4. Project    
 - TCP Socket Programming(FILE Transfer)
 - NonSpecialist Vulerability Learning Site(DDOS, SQL, OS_Command_Injecton)
-- Simple Android Security Solution
+- Simple Android Security Solution(refer https://github.com/eichi-tsu/Android -> *_FA(floating apps).java,xml)
 - MyWebPage's
 # 5. Purpose
 5-1 Certificate<br>
