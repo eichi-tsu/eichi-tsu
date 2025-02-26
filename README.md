@@ -32,8 +32,8 @@ __FINAL GOAL : Japanese Animation Company Chief Security Officer(CSO)__
 # 3. Certificate
 - Korean
 - - Linux Master(1)
-- - Information Process(2)
-- * Security Process(2)
+- - Industrial Engineer Information Processing
+- * Industrial engineer information security
 - * Network Manager(2)
 - * JPT 745
 - * Chinese Character(3)
